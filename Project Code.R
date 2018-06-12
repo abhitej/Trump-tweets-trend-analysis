@@ -1,7 +1,6 @@
 # BIA 658 - Social Network Analysis
 # Group Project Assignment - Final Code
 # Topic - Sentiment analysis of tweets before and after Trump became President of the USA
-# Team Members - Abhitej Kodali, Ayush Sharma, Smriti Vimal, Abhay Sharma
 
 library(ggthemes) # Load
 library(tm)
